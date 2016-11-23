@@ -3,7 +3,7 @@
   publish = "dist"
 
 [template]
-  incoming-hooks = ["Contentful"]
+  incoming-hooks = ["Dato CMS"]
 
 [template.environment]
-  CONTENTFUL_TOKEN = "change me"
+  DATO_CMS_TOKEN = "change me"

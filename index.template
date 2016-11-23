@@ -2,6 +2,6 @@
 <body>
 Deploy to Netlify template test:
 
-CONTENTFUL_TOKEN = %CONTENTFUL_TOKEN%
+DATO_CMS_TOKEN = %DATO_CMS_TOKEN%
 </body>
 </html>
